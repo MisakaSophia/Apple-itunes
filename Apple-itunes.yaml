@@ -1,0 +1,4 @@
+# NAME: Spotify-cdn
+# TOTAL: 6
+payload:
+  - DOMAIN-KEYWORD,radio-activity.itunes.apple.com
